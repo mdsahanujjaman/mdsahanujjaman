@@ -1,144 +1,131 @@
 <div align="center">
 
-# ⚡ MD SAHANUJJAMAN
-### **Software Engineer | B.Tech Information Technology @ LPU ('27) | Registered Pharmacist**
+<!-- Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&random=false&width=750&lines=Hi+There!+I'm+MD+SAHANUJJAMAN;Full-Stack+Architect+%26+C%2B%2B+Engineer;B.Tech+Information+Technology+@+LPU;Registered+Pharmacist+(WBSCTVESD)" alt="Typing SVG" />
 
-```text
-  ___ ___ ___ _  _  _   _    _  _   _ _   _   _   _   _   _  
- | _ \ _ \ __| || |/_\ | |  | || | | | | /_\ | \_/ | /_\ | \ 
- |  _/   / _|| __ / _ \| |__| __ | |_| |/ _ \| |v| |/ _ \| | 
- |_| |_|_\___|_||_/_/ \_\____|_||_|\___/_/ \_\_| |_/_/ \_\_| 
-```
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20SAHANUJJAMAN-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdsahanujjaman)
-[![Placement Prep Hub](https://img.shields.io/badge/Placement%20Hub-Msjaman--PEP-10B981?style=for-the-badge&logo=target)](https://github.com/mdsahanujjaman/Msjaman-PEP)
-[![Instagram](https://img.shields.io/badge/Instagram-msjaman17-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/msjaman17)
-[![X](https://img.shields.io/badge/X-@mdsahanujjaman0-000000?style=for-the-badge&logo=x)](https://x.com/mdsahanujjaman0)
-[![Facebook](https://img.shields.io/badge/Facebook-mdsahanujjaman0-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/mdsahanujjaman0)
-
----
+[![GitHub Profile](https://img.shields.io/badge/GitHub-mdsahanujjaman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdsahanujjaman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD%20SAHANUJJAMAN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsahanujjaman)
+[![Placement Prep Engine](https://img.shields.io/badge/Placement%20Hub-Msjaman--PEP-10B981?style=for-the-badge&logo=target&logoColor=white)](https://github.com/mdsahanujjaman/Msjaman-PEP)
+[![Instagram](https://img.shields.io/badge/Instagram-msjaman17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/msjaman17)
+[![X (Twitter)](https://img.shields.io/badge/X-@mdsahanujjaman0-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mdsahanujjaman0)
 
 </div>
 
-## 📌 Executive Summary
+---
 
-```yaml
-Developer: MD SAHANUJJAMAN
-Current Role: B.Tech Information Technology Student @ Lovely Professional University (23-27)
-Credentials: Registered Pharmacist (WBSCTVESD) - SGP (21-23)
-Core Focus: C++ Systems Programming, DSA Mastery, Full-Stack Architecture & Core CS
-Placement Goal: Top 1% Technical Preparation for Tier-1 Product & Placement Drives
-Location: Jalandhar, Punjab, India
-```
+## ⚡ Executive Developer Profile
 
-- 🎓 **Academic Excellence:** Pursuing B.Tech IT at Lovely Professional University with a focus on Data Structures, Algorithms, Operating Systems, Database Management Systems, and Computer Networks.
-- 💡 **Engineering Philosophy:** Clean code architecture, high performance, space-time efficiency, and scalable system design.
-- 🎯 **Current Mission:** Executing a 100-day structured C++ & DSA Placement Roadmap via [**Msjaman-PEP**](https://github.com/mdsahanujjaman/Msjaman-PEP).
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 About Me
+- 🎓 **Education:** Pursuing **B.Tech in Information Technology** (2023 - 2027) at **Lovely Professional University (LPU)**.
+- 💊 **Credentials:** Registered Pharmacist (WBSCTVESD) - SGP (2021 - 2023).
+- 💡 **Core Focus:** C++ Systems Programming, Data Structures & Algorithms, Full-Stack Architecture, and Core CS.
+- 🚀 **Placement Target:** Building a world-class engineering foundation to crack top-tier product company drives.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Missions
+- 💻 **C++ Mastery:** 38 Modules covering Foundations, Pointers, Memory Management, OOP, and Advanced STL.
+- 🧠 **DSA Suchipatra:** 17 Topic Tracks + 450+ LeetCode Problem Solving Target.
+- 🗄️ **Core CS:** In-depth DBMS, SQL Normalization, Operating Systems Kernel Concepts, Computer Networks & System Design.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Featured Engineering Projects
+## 🚀 Featured Engineering Projects Showcase
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 1️⃣ 🎯 [Msjaman-PEP](https://github.com/mdsahanujjaman/Msjaman-PEP)
+> **All-in-One Placement Preparation Engine**
+
+![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-17%20Topics-FF6B6B?style=flat-square&logo=leetcode)
+![Core CS](https://img.shields.io/badge/Core%20CS-DBMS%20%7C%20OS%20%7C%20CN-8B5CF6?style=flat-square)
+
+- 📜 38 C++ Modules, 17 DSA Suchipatra topics, standardized `Examples.cpp` & `Practice.cpp`.
+- 📊 Built-in progress tracking dashboard & daily journal.
+- 🔗 [**Explore Repository →**](https://github.com/mdsahanujjaman/Msjaman-PEP)
+
+</td>
+<td width="50%" valign="top">
+
+### 2️⃣ 🏥 Health Horizon
+> **Cloud-Native AI Healthcare Platform**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+- 📜 Telemedicine appointments, self-healing DB records, profile upload pipeline & pill reminder service.
+- ⚡ High-throughput REST API microservices architecture.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 3️⃣ 🚍 NextStop
+> **Real-Time Bus & Transit Tracking System**
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+- 📜 Live route simulation, geolocation updates, and real-time arrival predictions.
+- 🎨 Pixel-perfect, high-FPS responsive UI interface.
+
+</td>
+<td width="50%" valign="top">
+
+### 4️⃣ ♻️ [WasteWise](https://github.com/mdsahanujjaman/PLASTIC-WASTE-REDUCTION-PORTAL)
+> **Plastic Waste Reduction & Sustainability Portal**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- 📜 Community waste collection tracker with reward calculations and eco-analytics dashboard.
+- 🔗 [**Explore Repository →**](https://github.com/mdsahanujjaman/PLASTIC-WASTE-REDUCTION-PORTAL)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Arsenal & Skill Matrix
 
 <div align="center">
 
-### 1️⃣ 🚀 Msjaman-PEP — All-in-One Placement Preparation Engine
-*Comprehensive 38-Module C++ & 17-Topic DSA Placement Curriculum & Tracking System*
-
-![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-17%20Topics-FF6B6B?style=for-the-badge&logo=leetcode)
-![Core CS](https://img.shields.io/badge/Core%20CS-DBMS%20%7C%20OS%20%7C%20CN-8B5CF6?style=for-the-badge)
-
-- 📜 **Key Highlights:** 38 C++ modules (Foundations, Dynamic Memory Allocation, OOP, Templates, STL), 17 DSA Suchipatra topic folders with standardized `Examples.cpp`, `Practice.cpp`, `Notes.md`, `CheatSheet.md`, and `Revision.md`.
-- 📊 **Tracking:** Integrated progress tracking dashboard & daily mistake log.
-- 🔗 [**View Repository**](https://github.com/mdsahanujjaman/Msjaman-PEP)
-
----
-
-### 2️⃣ 🏥 Health Horizon — Cloud-Native Telemedicine Platform
-*AI-Powered Healthcare Ecosystem with Real-Time Pill Reminders & Profile Management*
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-- 📜 **Key Highlights:** Engineered patient-doctor appointment workflows, self-healing database records (`findOrCreate` initialization), profile media uploads, and scheduled pill reminder service.
-- ⚡ **Architecture:** Microservices API backend paired with a high-performance React dashboard.
-
----
-
-### 3️⃣ 🚍 NextStop — Real-Time Bus & Public Transit Tracking Platform
-*Smart Commuter Tracking Platform with Interactive Route Visualizations*
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-- 📜 **Key Highlights:** Live route simulation, geolocation updates, bus stop arrival predictions, and intuitive rider interface.
-
----
-
-### 4️⃣ ♻️ Plastic Waste Reduction Portal / WasteWise
-*Community-Driven Environmental Tracking & Sustainability Platform*
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- 📜 **Key Highlights:** Interactive waste collection tracker, reward point calculation, and eco-analytics dashboard.
-- 🔗 [**View Repository**](https://github.com/mdsahanujjaman/PLASTIC-WASTE-REDUCTION-PORTAL)
-
-</div>
-
----
-
-## 🗺️ Placement Preparation Journey & Curriculum
-
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                        PHASE 1: C++ MASTERY                            │
-│    (Syntax -> Dynamic Memory -> OOP -> Advanced Templates & STL)       │
-└──────────────────────────────────┬─────────────────────────────────────┘
-                                   │
-                                   ▼
-┌────────────────────────────────────────────────────────────────────────┐
-│               PHASE 2: DATA STRUCTURES & ALGORITHMS                    │
-│     (Arrays -> Linked Lists -> Trees -> Graphs -> Dynamic Prog)        │
-└──────────────────────────────────┬─────────────────────────────────────┘
-                                   │
-                                   ▼
-┌────────────────────────────────────────────────────────────────────────┐
-│               PHASE 3: CORE CS & SYSTEM DESIGN                         │
-│       (DBMS & SQL -> OS Scheduling & Memory -> Networks -> Git)        │
-└──────────────────────────────────┬─────────────────────────────────────┘
-                                   │
-                                   ▼
-┌────────────────────────────────────────────────────────────────────────┐
-│              PHASE 4: INTERVIEWS, MOCKS & RESUME BRANDING              │
-│       (ATS Resume -> STAR Technical Mocks -> Aptitude Speed Tests)     │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🛠️ Technical Skill Matrix
-
-| Category | Technologies & Tools |
+| Skill Domain | Technologies & Shields |
 | :--- | :--- |
-| **Languages** | C++ (17/20), JavaScript (ES6+), Python, SQL, HTML5, CSS3 |
-| **Frameworks** | React.js, Node.js, Express.js, Spring Boot, Tailwind CSS, Laravel |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Core CS** | Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, OOP |
-| **Tools & Cloud** | Git, GitHub, Docker, Postman, Vite, VS Code |
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Tools & Environments** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
+</div>
 
 ---
 
-## 📊 Live GitHub Analytics & Performance
+## 📊 Live Coding Analytics & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mdsahanujjaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MD SAHANUJJAMAN GitHub Stats" height="175"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdsahanujjaman&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="175"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mdsahanujjaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MD SAHANUJJAMAN GitHub Stats" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdsahanujjaman&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="180"/>
 
 <br/>
 
@@ -150,7 +137,7 @@ Location: Jalandhar, Punjab, India
 
 <div align="center">
 
-### 🤝 Connect & Network
+### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdsahanujjaman)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/msjaman17)
@@ -159,6 +146,6 @@ Location: Jalandhar, Punjab, India
 
 <br/>
 
-*“Engineered with discipline, precision, and dedication to excellence.”* ⚡
+*“Driven by curiosity, powered by code, and dedicated to mastering software engineering.”* ⚡
 
 </div>
