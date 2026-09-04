@@ -21,7 +21,7 @@ Name: MD SAHANUJJAMAN
 Education: B.Tech in Information Technology (2023 - 2027)
 Institution: Lovely Professional University (LPU), Jalandhar
 Credential: Registered Pharmacist (WBSCTVESD) - SGP (2021 - 2023)
-Current Goal: Master C++, Data Structures & Algorithms & Core CS
+Current Focus: Mastering C++, Data Structures & Algorithms & Core CS
 Placement Hub: https://github.com/mdsahanujjaman/Msjaman-PEP
 Location: Jalandhar, Punjab, India
 ```
@@ -76,8 +76,8 @@ Location: Jalandhar, Punjab, India
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdsahanujjaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MD SAHANUJJAMAN GitHub Stats" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahanujjaman&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="175"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mdsahanujjaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="MD SAHANUJJAMAN GitHub Stats" height="175"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdsahanujjaman&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" height="175"/>
 
 <br/>
 
